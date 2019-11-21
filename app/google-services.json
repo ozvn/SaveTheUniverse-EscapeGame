@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "776492096716",
+    "firebase_url": "https://save-the-universe.firebaseio.com",
+    "project_id": "save-the-universe",
+    "storage_bucket": "save-the-universe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776492096716:android:3eb2335e987fbf78b27669",
+        "android_client_info": {
+          "package_name": "com.ozancanocak.saveuniverseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776492096716-jkppme600k4p118m7lurqlliq6ks480u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbEu25ltcn3AtpwAdK50ITj_MWeXEbKgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776492096716-jkppme600k4p118m7lurqlliq6ks480u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
